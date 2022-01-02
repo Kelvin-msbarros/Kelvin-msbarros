@@ -34,5 +34,5 @@
   <a href="https://www.behance.net/kelvinbarros1" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
   </div>
 
- ![Snake animation](https://github.com/kelvin-msbarros/kelvin-msbarros/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Kelvin-msbarros/Kelvin-msbarros/blob/output/github-contribution-grid-snake.svg)
  
