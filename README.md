@@ -1,9 +1,9 @@
 ### Olá eu sou o Kelvin Barros
 
-- 🔭 Atualmente estou trabalhado com Front-End
-- 🌱 Atualmente estou aprendendo React 
-- 👯 Procuro colaborar em projeto para Ongs 
-- 🤔 Estou procurando estágio na área Front-End
+- 🔭 Atualmente estou trabalhado com auxiliar estratégico em PI
+- 🌱 Atualmente estou aprendendo Python
+- 👯 Procuro colaborar em projeto para OnNS
+- 🤔 Estou procurando estágio na área dadps
 - 📫 Contate-me no e-mail: kelvinmigueldasilvabarros@gmail.com
 - 😄 Pronomes : Dele/ele
 - ⚡ Curiosidade: Amo Jogos de FPs e Ler Livros de aventura, atualmente lendo Eragon  🐉
