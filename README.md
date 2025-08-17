@@ -1,12 +1,12 @@
 ### Olá eu sou o Kelvin Barros
 
-- 🔭 Atualmente estou trabalhado com auxiliar estratégico em PI
+- 🔭 Atualmente estou trabalhado com Analista de BI || Dados
 - 🌱 Atualmente estou aprendendo Python
 - 👯 Procuro colaborar em projeto para OnNS
-- 🤔 Estou procurando estágio na área dadps
 - 📫 Contate-me no e-mail: kelvinmigueldasilvabarros@gmail.com
-- 😄 Pronomes : Dele/ele
-- ⚡ Curiosidade: Amo Jogos de FPs e Ler Livros de aventura, atualmente lendo Eragon  🐉
+- ⚡ Curiosidade: Amo Jogos de FPs e Ler Livros de aventura, atualmente lendo Eragon 🐉
+- Portifolio https://app.powerbi.com/view?r=eyJrIjoiNjI5NDVmNDUtNWYwYy00N2VjLTliNWMtMGFhZTBkNmNlNGYyIiwidCI6IjBlNzVkNTM4LWJmM2ItNGI2YS04Yzk1LWJmOGJkMmZhYTc4MCJ9 
+
 -->
 <a href="https://github.com/Kelvin-msbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelvin-msbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
