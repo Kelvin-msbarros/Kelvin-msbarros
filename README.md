@@ -20,7 +20,7 @@ Cloud Computing (Azure e AWS) aplicados a engenharia de dados.
 🔎 Meu objetivo é atuar como Engenheiro de Dados Júnior, aplicando boas práticas de desenvolvimento de software e construção de pipelines para transformar dados em informação de valor para o negócio.
 
 📌 Portfólio em construção: projetos de ETL, integração com APIs, dashboards e pipelines orquestrados.
-- Portifolio https://app.powerbi.com/view?r=eyJrIjoiNjI5NDVmNDUtNWYwYy00N2VjLTliNWMtMGFhZTBkNmNlNGYyIiwidCI6IjBlNzVkNTM4LWJmM2ItNGI2YS04Yzk1LWJmOGJkMmZhYTc4MCJ9 
+- Portifolio [https://app.powerbi.com/view?r=eyJrIjoiNjI5NDVmNDUtNWYwYy00N2VjLTliNWMtMGFhZTBkNmNlNGYyIiwidCI6IjBlNzVkNTM4LWJmM2ItNGI2YS04Yzk1LWJmOGJkMmZhYTc4MCJ9 ](https://kelvin-msbarros.github.io/kelvin-portfolio)
 
 <div> 
 
