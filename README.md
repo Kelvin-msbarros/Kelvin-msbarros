@@ -1,32 +1,45 @@
+# Olá! Eu sou o Kelvin 👋
 
-Sou profissional de dados com pós-graduação em Ciência de Dados e experiência em Business Intelligence (Power BI). Atualmente, estou expandindo meu portfólio para a área de Engenharia de Dados, desenvolvendo projetos práticos em Python e SQL para construção de pipelines de ingestão, transformação e análise de dados.
+## Sobre mim
+Sou pós-graduado em Ciência de Dados e desenvolvedor de **dashboards Power BI**. Tenho experiência em **SQL avançado**, **Python** e análise de dados para apoiar decisões estratégicas.
 
-Tenho sólidos conhecimentos em:
+- 🔭 Atualmente focado em **engenharia de dados** e projetos de visualização.  
+- 🌱 Sempre aprendendo novas tecnologias e formas de explorar dados.  
+- 💬 Pergunte-me sobre **Power BI, SQL, Python e análise de dados**.  
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/kelvin-miguel-da-silva-barros-1b43b9258)  
 
-SQL (consultas, modelagem de dados, integração com bancos relacionais e NoSQL);
+---
 
-Python (Pandas, requests, ETL e automação de rotinas de dados);
+## 🛠️ Habilidades
 
-Power BI (dashboards interativos e análise de indicadores de negócio).
+| Linguagens | Ferramentas | Visualização |
+|------------|------------|--------------|
+| Python     | Power BI   | Tableau      |
+| SQL        | Excel      | Dashboards Interativos |
+| Git/GitHub | Jupyter    | Storytelling de Dados |
 
-Em constante aprendizado de:
+---
 
-Orquestração de pipelines com Apache Airflow/Prefect;
+## 📊 Projetos Públicos
 
-Containerização com Docker;
+### Portfólio Power BI
+📁 [Acesse meus dashboards](https://kelvin-msbarros.github.io/kelvin-portfolio)  
+- Relatórios de **Estoque, RH, Produção, Financeiro e Investimento**  
+- Dashboards interativos e responsivos  
 
-Cloud Computing (Azure e AWS) aplicados a engenharia de dados.
+### Projetos em Python
+- Análise de dados de vendas e performance de lojas  
+- Machine Learning básico: regressão, classificação e clustering  
 
-🔎 Meu objetivo é atuar como Engenheiro de Dados Júnior, aplicando boas práticas de desenvolvimento de software e construção de pipelines para transformar dados em informação de valor para o negócio.
+---
 
-📌 Portfólio em construção: projetos de ETL, integração com APIs, dashboards e pipelines orquestrados.
-- Portifolio [https://app.powerbi.com/view?r=eyJrIjoiNjI5NDVmNDUtNWYwYy00N2VjLTliNWMtMGFhZTBkNmNlNGYyIiwidCI6IjBlNzVkNTM4LWJmM2ItNGI2YS04Yzk1LWJmOGJkMmZhYTc4MCJ9 ](https://kelvin-msbarros.github.io/kelvin-portfolio)
+## 🌐 Contato
+- LinkedIn: [Kelvin Miguel](https://www.linkedin.com/in/kelvin-miguel-da-silva-barros-1b43b9258)  
+- Portfólio: [kelvin-msbarros.github.io](https://kelvin-msbarros.github.io/kelvin-portfolio)  
+- E-mail: kelvinmigueldasilvabarros@gmail.com  
 
-<div> 
+---
 
-  <a href = "mailto:kelvinmigueldasilvabarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kelvin-miguel-da-silva-barros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-
+> "Transformando dados em decisões estratégicas." 🚀
 
  
