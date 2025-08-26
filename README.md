@@ -1,7 +1,7 @@
 # Olá! Eu sou o Kelvin 👋
 
 ## Sobre mim
-Sou pós-graduado em Ciência de Dados e desenvolvedor de **dashboards Power BI**. Tenho experiência em **SQL avançado**, **Python** e análise de dados para apoiar decisões estratégicas.
+Sou pós-graduado em Ciência de Dados e desenvolvedor de **dashboards Power BI**. Tenho experiência em **SQL**, **Python** e análise de dados para apoiar decisões estratégicas.
 
 - 🔭 Atualmente focado em **engenharia de dados** e projetos de visualização.  
 - 🌱 Sempre aprendendo novas tecnologias e formas de explorar dados.  
@@ -27,9 +27,6 @@ Sou pós-graduado em Ciência de Dados e desenvolvedor de **dashboards Power BI*
 - Relatórios de **Estoque, RH, Produção, Financeiro e Investimento**  
 - Dashboards interativos e responsivos  
 
-### Projetos em Python
-- Análise de dados de vendas e performance de lojas  
-- Machine Learning básico: regressão, classificação e clustering  
 
 ---
 
